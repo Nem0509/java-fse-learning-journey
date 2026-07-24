@@ -61,6 +61,23 @@ Each weekly directory contains the corresponding exercises, source code, documen
 * Microservices with Spring Boot 3
 * Spring Cloud
 
+### Week 5
+
+* Code Quality and Continuous Inspection using SonarQube
+* Advanced Microservices with Spring Boot 3 and Spring Cloud
+* Service Discovery (Eureka) and API Gateway (Spring Cloud Gateway)
+* Resilience Patterns and Fault Tolerance (Resilience4j)
+* Centralised Authentication and SSO (OAuth 2.1/OIDC and JWT)
+
+### Week 6
+
+* Single Page Application (SPA) Architecture and React Fundamentals
+* React Environment Setup and create-react-app
+* Functional and Class-based Components
+* React State Management and Props
+* Modern JavaScript (ES6+) and JSX
+
+
 ---
 
 ## Technology Stack
