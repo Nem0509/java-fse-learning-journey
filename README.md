@@ -18,7 +18,10 @@ java-fse-learning-journey
 │   ├── week-02/
 │   ├── week-03/
 │   ├── week-04/
-│   └── ...
+│   ├── week-05/
+│   ├── week-06/
+│   └── week-07/
+
 │
 ├── docs/
 ├── projects/
@@ -76,6 +79,14 @@ Each weekly directory contains the corresponding exercises, source code, documen
 * Functional and Class-based Components
 * React State Management and Props
 * Modern JavaScript (ES6+) and JSX
+
+### Week 7
+
+* Building enterprise scale web apps using Angular as the frontend framework with Java APIs
+* CI/CD pipelines, automation, version control, and deployment strategies
+* Containerization concepts, Docker images, and running applications in isolated environments
+* Basics of cloud computing, deployment models (IaaS, PaaS, SaaS), and scalability concepts
+* Introduction to Generative AI, use cases, and integration with modern applications
 
 
 ---
