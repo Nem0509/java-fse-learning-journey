@@ -121,7 +121,7 @@ The repository includes:
 
 ## Current Status
 
-The first six weeks of the curriculum have been completed. Additional modules and projects will be added as the learning roadmap progresses.
+All the seven weeks of the curriculum have been completed. Additional important modules and projects will be added as the learning roadmap progresses.
 
 ---
 
